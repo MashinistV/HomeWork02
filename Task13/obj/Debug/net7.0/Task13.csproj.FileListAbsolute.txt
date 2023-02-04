@@ -1,0 +1,15 @@
+/Users/mashinistv/Documents/GeekBrain/HomeWork02/Task13/bin/Debug/net7.0/Task13
+/Users/mashinistv/Documents/GeekBrain/HomeWork02/Task13/bin/Debug/net7.0/Task13.deps.json
+/Users/mashinistv/Documents/GeekBrain/HomeWork02/Task13/bin/Debug/net7.0/Task13.runtimeconfig.json
+/Users/mashinistv/Documents/GeekBrain/HomeWork02/Task13/bin/Debug/net7.0/Task13.dll
+/Users/mashinistv/Documents/GeekBrain/HomeWork02/Task13/bin/Debug/net7.0/Task13.pdb
+/Users/mashinistv/Documents/GeekBrain/HomeWork02/Task13/obj/Debug/net7.0/Task13.csproj.AssemblyReference.cache
+/Users/mashinistv/Documents/GeekBrain/HomeWork02/Task13/obj/Debug/net7.0/Task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mashinistv/Documents/GeekBrain/HomeWork02/Task13/obj/Debug/net7.0/Task13.AssemblyInfoInputs.cache
+/Users/mashinistv/Documents/GeekBrain/HomeWork02/Task13/obj/Debug/net7.0/Task13.AssemblyInfo.cs
+/Users/mashinistv/Documents/GeekBrain/HomeWork02/Task13/obj/Debug/net7.0/Task13.csproj.CoreCompileInputs.cache
+/Users/mashinistv/Documents/GeekBrain/HomeWork02/Task13/obj/Debug/net7.0/Task13.dll
+/Users/mashinistv/Documents/GeekBrain/HomeWork02/Task13/obj/Debug/net7.0/refint/Task13.dll
+/Users/mashinistv/Documents/GeekBrain/HomeWork02/Task13/obj/Debug/net7.0/Task13.pdb
+/Users/mashinistv/Documents/GeekBrain/HomeWork02/Task13/obj/Debug/net7.0/Task13.genruntimeconfig.cache
+/Users/mashinistv/Documents/GeekBrain/HomeWork02/Task13/obj/Debug/net7.0/ref/Task13.dll
